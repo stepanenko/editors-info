@@ -43,6 +43,7 @@ Material Icon Theme | Philipp Kief
 ### Fonts - Editor (may look different on different screens)
 Name  |
 ----- |
+'Ioskeley Mono', 'Ioskeley Mono Light'
 'Roboto Mono Regular / Light'
 'JetBrains Mono Light / Thin'
 'Fira Code'
@@ -53,6 +54,7 @@ Lekton
 ### Fonts - Terminal
 Name  |
 ----- |
+'Ioskeley Mono', 'Ioskeley Mono Light'
 'Roboto Mono Regular / Light'
 'JetBrains Mono Thin'
 'Fira Code'
