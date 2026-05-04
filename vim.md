@@ -25,4 +25,20 @@ Vim is a highly configurable text editor built to make creating and changing any
 
 `0` - jump to the start of the line, `$` - to the end
 
+`CMD + u` - undo
+
+`V` - select current line (then use arrows to select more lines)
+
+`y` - yank (copy) selected text
+
+`yy` - copy line
+
+`p` - paste after
+
+`P` - paste before
+
+`d` - delete selected text
+
+`dd` - cut one line
+
 More at: https://vim.rtorr.com/
