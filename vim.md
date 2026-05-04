@@ -37,6 +37,8 @@ Vim is a highly configurable text editor built to make creating and changing any
 
 `P` - paste before
 
+`CMD + V` - paste data copied outside the Vim
+
 `d` - delete selected text
 
 `dd` - cut one line
